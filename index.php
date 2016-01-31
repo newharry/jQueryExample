@@ -14,6 +14,7 @@
     <link href="/function-demos/css/bootstrap.css" rel="stylesheet">
     <link href="/function-demos/css/style.css" rel="stylesheet">
     <link href="/function-demos/css/shCoreDefault.css" rel="stylesheet">
+    <link href="css/main.css">
 
     <!-- scripts -->
     <script src="/function-demos/js/jquery-1.6.4.min.js"></script>
