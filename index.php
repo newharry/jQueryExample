@@ -11,15 +11,15 @@
     <meta name="author" content="jquery4u">
 
     <!-- styles -->
-    <link href="/function-demos/css/bootstrap.css" rel="stylesheet">
-    <link href="/function-demos/css/style.css" rel="stylesheet">
-    <link href="/function-demos/css/shCoreDefault.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/shCoreDefault.css" rel="stylesheet">
     <link href="css/main.css">
 
     <!-- scripts -->
-    <script src="/function-demos/js/jquery-1.6.4.min.js"></script>
-    <script type="text/javascript" src="/function-demos/js/syntaxhighlighter/shCore.js"></script>
-    <script type="text/javascript" src="/function-demos/js/syntaxhighlighter/shBrushJScript.js"></script>
+    <script src="js/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" src="js/syntaxhighlighter/shCore.js"></script>
+    <script type="text/javascript" src="js/syntaxhighlighter/shBrushJScript.js"></script>
 
     <script type="text/javascript">
     jQuery(document).ready( function ()
@@ -65,50 +65,50 @@
 
           <h5>AJAX</h5>
           <ul>
-            <li><a href="/function-demos/ajax/">$.ajax()</a></li>
-            <li><a href="/function-demos/getjson/">$.getJSON()</a></li>
-            <li><a href="/function-demos/getscript/">$.getScript()</a></li>
-            <li><a href="/function-demos/load/">.load()</a></li>
-            <li><a href="/function-demos/jsonp/">JSONP</a></li>
+            <li><a href="functions/ajax/">$.ajax()</a></li>
+            <li><a href="functions/getjson/">$.getJSON()</a></li>
+            <li><a href="functions/getscript/">$.getScript()</a></li>
+            <li><a href="functions/load/">.load()</a></li>
+            <li><a href="functions/jsonp/">JSONP</a></li>
           </ul>
           <h5>Animations & Effects</h5>
           <ul>
-            <li><a href="/function-demos/animate/">.animate()</a></li>
-            <li><a href="/function-demos/setinterval/">setInterval()</a></li>
-            <li><a href="/function-demos/settimeout/">setTimeout()</a></li>
-            <li><a href="/function-demos/slidetoggle/">.slideToggle()</a></li>
-            <li><a href="/function-demos/fadetoggle/">.fadeToggle()</a></li>
-            <li><a href="/function-demos/delay/">.delay()</a></li>
+            <li><a href="functions/animate/">.animate()</a></li>
+            <li><a href="functions/setinterval/">setInterval()</a></li>
+            <li><a href="functions/settimeout/">setTimeout()</a></li>
+            <li><a href="functions/slidetoggle/">.slideToggle()</a></li>
+            <li><a href="functions/fadetoggle/">.fadeToggle()</a></li>
+            <li><a href="functions/delay/">.delay()</a></li>
           </ul>
           <h5>DOM Manipulation</h5>
           <ul>
-            <li><a href="/function-demos/css/">.css()</a></li>
-            <li><a href="/function-demos/addclass/">.addClass()</a></li>
-            <li><a href="/function-demos/toggleclass/">$.toggleClass()</a></li>
-            <li><a href="/function-demos/html/">.html(), .text()</a></li>
-            <li><a href="/function-demos/append/">.append()</a></li>
-            <li><a href="/function-demos/clone/">.clone()</a></li>
+            <li><a href="functions/css/">.css()</a></li>
+            <li><a href="functions/addclass/">.addClass()</a></li>
+            <li><a href="functions/toggleclass/">$.toggleClass()</a></li>
+            <li><a href="functions/html/">.html(), .text()</a></li>
+            <li><a href="functions/append/">.append()</a></li>
+            <li><a href="functions/clone/">.clone()</a></li>
           </ul>
           <h5>Events</h5>
           <ul>
-            <li><a href="/function-demos/bind/">.bind()</a></li>
-            <li><a href="/function-demos/live/">.live()</a></li>
-            <li><a href="/function-demos/delegate/">.delegate()</a></li>
-            <li><a href="/function-demos/preventdefault/">.preventDefault()</a></li>
-            <li><a href="/function-demos/stoppropagation/">.stopPropagation()</a></li>
-            <li><a href="/function-demos/stopimmediatepropagation/" style="font-size: 11px;">.stopImmediatePropagation()</a></li>
+            <li><a href="functions/bind/">.bind()</a></li>
+            <li><a href="functions/live/">.live()</a></li>
+            <li><a href="functions/delegate/">.delegate()</a></li>
+            <li><a href="functions/preventdefault/">.preventDefault()</a></li>
+            <li><a href="functions/stoppropagation/">.stopPropagation()</a></li>
+            <li><a href="functions/stopimmediatepropagation/" style="font-size: 11px;">.stopImmediatePropagation()</a></li>
           </ul>
           <h5>Traversing & Data</h5>
           <ul>
-            <li><a href="/function-demos/each/">$.each(), .each()</a></li>
-            <li><a href="/function-demos/data/">$.data()</a></li>
-            <li><a href="/function-demos/match/">.match()</a></li>
-            <li><a href="/function-demos/find/">.find()</a></li>
-            <li><a href="/function-demos/filter/">.filter()</a></li>
-            <li><a href="/function-demos/slice/">.slice()</a></li>
-            <li><a href="/function-demos/next/">.next(), .prev()</a></li>
-            <li><a href="/function-demos/extend/">$.extend()</a></li>
-            <li><a href="/function-demos/serializearray/">$.serializeArray()</a></li>
+            <li><a href="functions/each/">$.each(), .each()</a></li>
+            <li><a href="functions/data/">$.data()</a></li>
+            <li><a href="functions/match/">.match()</a></li>
+            <li><a href="functions/find/">.find()</a></li>
+            <li><a href="functions/filter/">.filter()</a></li>
+            <li><a href="functions/slice/">.slice()</a></li>
+            <li><a href="functions/next/">.next(), .prev()</a></li>
+            <li><a href="functions/extend/">$.extend()</a></li>
+            <li><a href="functions/serializearray/">$.serializeArray()</a></li>
           </ul>
         </div>
 
